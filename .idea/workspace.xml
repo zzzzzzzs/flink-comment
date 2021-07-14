@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbc9ab22-6b15-41bd-a2e8-7d2c4d6616bc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +63,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FlinkRealTimeProjectAnalysis" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -194,6 +196,9 @@
       <workItem from="1625642858377" duration="2012000" />
       <workItem from="1625644969651" duration="257000" />
       <workItem from="1625651238345" duration="1745000" />
+      <workItem from="1626169321778" duration="2255000" />
+      <workItem from="1626175992460" duration="72000" />
+      <workItem from="1626221930480" duration="4737000" />
     </task>
     <servers />
   </component>
@@ -205,10 +210,14 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="234" y="0" key="#Updates/0.0.1280.689@0.0.1280.689" timestamp="1625644844394" />
-    <state x="275" y="114" width="454" height="498" key="FileChooserDialogImpl" timestamp="1625478546650">
+    <state x="294" y="147" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626169881352">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="275" y="114" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1625478546650" />
+    <state x="294" y="147" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1626169881352" />
+    <state x="275" y="114" width="454" height="498" key="FileChooserDialogImpl" timestamp="1626221952376">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="275" y="114" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1626221952376" />
     <state x="294" y="122" width="454" height="498" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1622425192936" />
     <state width="1237" height="124" key="GridCell.Tab.0.bottom" timestamp="1625659431743">
       <screen x="0" y="0" width="1280" height="689" />
@@ -244,10 +253,10 @@
     </state>
     <state x="340" y="180" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1625645203978" />
     <state x="363" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1622159034644" />
-    <state x="336" y="95" width="851" height="534" key="find.popup" timestamp="1625618748835">
+    <state x="336" y="95" width="881" height="534" key="find.popup" timestamp="1626242758359">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="336" y="95" width="851" height="534" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1625618748835" />
+    <state x="336" y="95" width="881" height="534" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1626242758359" />
     <state x="359" y="102" width="692" height="534" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1622104251770" />
     <state x="57" y="70" key="new project wizard" timestamp="1622178846326">
       <screen x="0" y="0" width="1366" height="738" />
